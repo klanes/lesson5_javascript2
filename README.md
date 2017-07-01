@@ -4,20 +4,20 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+June 30, 2017
 
 ### Student Name:  
-(First and Last Name)
+Kyle Lanes
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This project was designed to determine the tax rates for various filers.
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. If statements specify blocks of code to be executed if a condition is true.
+2. Else statements specify blocks of code to be executed if a condition is false.
+3. Else if statements specify a new condition to test if the previous one was false.
 
